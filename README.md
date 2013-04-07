@@ -21,6 +21,7 @@ ORG-MODE-TYPE
 - LTR Light Rail
 - MTR Metro
 - WTR Water Taxi
+- MRC MARC Train (Commuter Rail)
 
 ## Types
 
